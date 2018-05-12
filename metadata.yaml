@@ -1,0 +1,42 @@
+_repo: Vidy-pati--Bang-ya-pad-bali--songs-of-the-love-of-R-dh--and-Krishna_38174
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Coomaraswamy, Ananda K. (Ananda Kentish)
+    aliases:
+    - Coomaraswamy, Ananda Kentish
+    - Coomara-Swamy, Ananda Kentish
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '39295'
+    url: http://www.gutenberg.org/2009/agents/39295
+    wikipedia: http://en.wikipedia.org/wiki/Ananda_Coomaraswamy
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vidyāpati Thākura, active 15th century
+    aliases:
+    - Thākura, Vidyāpati
+    - Bidyapati
+    - Vidyapati Thakura
+    - Vidyapati
+    gutenberg_agent_id: '39294'
+    url: http://www.gutenberg.org/2009/agents/39294
+    wikipedia: http://en.wikipedia.org/wiki/Vidyapati
+description: ''
+gutenberg_issued: '2011-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Radha (Hindu deity) -- Poetry'
+- !lcsh 'Krishna (Hindu deity) -- Poetry'
+title: 'Vidyāpati: Bangīya padābali; songs of the love of Rādhā and Krishna'
+url: http://www.gutenberg.org/ebooks/38174
